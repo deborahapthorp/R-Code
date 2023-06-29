@@ -34,15 +34,16 @@ I wish to invite you to participate in my research project, described below.
 
 My name is Adriarne Minter, and I am conducting this research as part of my Honours project in the School of Psychology at the University of New England. My supervisor is Dr Deborah Apthorp, and co-researcher is A/Prof. Clara Murray. 
 
-## Project and aims
+## Project, aims and requirements
 
 - **Research project**: Long-COVID, Cognitive Functioning, and Quality of Life: An Online Study
 - **Aim of the research**: The study aims to investigate how COVID and long COVID can impact on day-to-day functioning, especially in the areas of thinking, memory, problem solving and quality of life. 
+- **Downloading Inquisit**: You will need to download a small computer program called *Inquisit Player* to carry out the tasks on your computer. This file is safe and can be deleted with a single click immediately afterwards. 
 
 ## Online battery of tests and questionnaires
 
 - **Online experiments**: For this study, you will be asked to answer some basic demographic questions, complete three computer-based tasks and four brief questionnaries. It should take no longer than 20 minutes to complete. The questions in the questionnaire are general in nature and will help to enhance our knowledge about thinking and memory skills and quality of life after COVID-19. However, some participants may find completion of the questionnaires and tasks tiring. Please feel free to take a break as needed, both for your own comfort and for optimal completion of the tasks. 
-- **Downloading Inquisit**: You will need to download a small computer program called *Inquisit Player* to carry out the tasks on your computer. This file is safe and can be deleted with a single click immediately afterwards. 
+
 
 
 ## Confidentiality and Voluntary Participation
