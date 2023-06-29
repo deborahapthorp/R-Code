@@ -1,0 +1,36 @@
+---
+title: "Consent Form"
+author: "Long-COVID, Cognitive Functioning, and Quality of Life: An Online Study."
+date: ""
+output: html_document
+---
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Online Implied Consent for Participants 
+
+-	I have read the information contained in the Information Sheet for Participants
+-	I agree to participate in the following three cognitive tasks, surveys and basic demographic questions. 
+- My contribution is anonymous
+- Information concerning my identity will not be collected
+- I may withdraw at any time
+- If I withdraw, there will be no other consequences or follow-up
+- I agree that the anonymous research data collected for the study will form part of a thesis and may be published, or presented at conferences at a later date
+- I agree that my anonymous data may be publicly available on the OSF once the study is completed
+-	I am 18 years of age or older.     
+-	In preservation of anonymity, I understand that no name or signature is required of me to give consent.
+ 
+By clicking “I wish to proceed”, I am agreeing to participate in this study. 
+
+*When you click on “I wish to proceed”, you will be prompted to download a small program called Inquisit Player, which will help in collecting accurate data. Once the experiment is complete, which should take approximately 45 minutes, you can delete Inquisit.* 
+
+*At the end of the study, you will be given a confirmation code which you can use to contact us if you have any issues with completing the experiments.* 
+

@@ -1,0 +1,29 @@
+---
+title: "Confirmation of COVID-19 Status"
+author: "UNE COVID-19 and Cognition Study"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: vignette
+---
+
+## Have you been diagnosed with COVID-19 in the last 6 months? 
+
+- From today, we are only recruiting people who have previously been diagnosed with COVID-19 for this study. 
+**Please do not proceed with the study if you have not had COVID-19**. 
+- The severity of any illness you experienced is not important, and you need not have been hospitalised. 
+**But you must have been officially diagnosed**
+
+## Please have your Prolific ID ready
+
+- You will need to enter your Prolific ID at the end in order for us to be able to pay you. Please have it handy now as you will not be able to minimise the Inquisit window. 
+
+## Declaration
+
+- By clicking "**I wish to proceed**", you are acknowledging that you have been diagnosed with COVID-19 in the past 6 months. 
+- Note, if you proceed with the study but have not been diagnosed with COVID-19, **you will not be paid by Prolific.** 
+- If you wish to **quit the study** now, please click "**I do not consent**". 
+
+
+

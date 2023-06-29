@@ -1,0 +1,89 @@
+---
+title: "Information and consent form for participants"
+author: "School of Psychology, University of New England, Armidale NSW 2351, Australia"
+date: "Phone  02 6773 4316, dapthorp@une.edu.au - \n press space bar to scroll through"
+output: ioslides_presentation
+logo: UNE-logo.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+      $('slide:not(.title-slide, .backdrop, .segue)').append('<footer label=\"Please press the space bar or arrow keys to navigate through\"></footer>');    
+    })
+</script>
+
+<style>
+  footer:after {
+    content: attr(label);
+    font-size: 12pt;
+    position: absolute;
+    bottom: 20px;
+    left: 120px;
+    line-height: 1.9;
+  }
+</style>
+## Introduction
+
+I wish to invite you to participate in my research project, described below.
+
+My name is Adriarne Minter, and I am conducting this research as part of my Honours project in the School of Psychology at the University of New England. My supervisor is Dr Deborah Apthorp, and co-researcher is A/Prof. Clara Murray. 
+
+## Project and aims
+
+- **Research project**: Long-COVID, Cognitive Functioning, and Quality of Life: An Online Study
+- **Aim of the research**: The study aims to investigate how COVID and long COVID can impact on day-to-day functioning, especially in the areas of thinking, memory, problem solving and quality of life. 
+
+## Online battery of tests and questionnaires
+
+- **Online experiments**: For this study, you will be asked to answer some basic demographic questions, complete three computer-based tasks and four brief questionnaries. It should take no longer than 20 minutes to complete. The questions in the questionnaire are general in nature and will help to enhance our knowledge about thinking and memory skills and quality of life after COVID-19. However, some participants may find completion of the questionnaires and tasks tiring. Please feel free to take a break as needed, both for your own comfort and for optimal completion of the tasks. 
+- **Downloading Inquisit**: You will need to download a small computer program called *Inquisit Player* to carry out the tasks on your computer. This file is safe and can be deleted with a single click immediately afterwards. 
+
+
+## Confidentiality and Voluntary Participation
+
+- **Confidentiality**: We will not be collecting any identifying information in this study, and thus it is not possible for any individual to be identified by name in any publication of the results.
+- **Participation is voluntary**: Please understand that your involvement in this study is voluntary and your right to stop participating at any time without recourse or reason will be respected. However, once you begin, any anonymous data you provide cannot be withdrawn.
+
+## Use of Information
+
+- **Use of information**: Information from the study will be used as part of an Honours thesis, which is expected to be completed in October 2023. Information may also be used in academic journal articles and conference presentations, as well as blog posts, preprints, and newspaper articles, before and after this date. As the data collected in this research is anonymous, your data will not be identifiable in any way.
+
+## Storage of Information
+
+- **Storage of information**: During the study, all electronic data will be kept on [Cloud UNE](https://cloud.une.edu.au/), UNE’s centrally managed cloud server managed by the research team, as well as on Millisecond’s secure servers for [Inquisit](https://www.millisecond.com/). Any data downloaded from the servers will be kept on a password protected computer. Only the research team will have access to the data. At the end of the study, de-identified data will be uploaded to a public data repository, the Open Science Foundation ([OSF](https://osf.io/)), in the interests of open science and replicability. It will also be indexed on UNE’s Open Access database, [RUNE](https://rune.une.edu.au/web/index.jsp). All the data collected in this research will be kept indefinitely.
+
+
+## Ethical approval and what to do if you're upset
+
+- **Approval**: This project has been approved by the Human Research Ethics Committee of the University of New England (Approval No. HE23-051, Valid to 01 June, 2024).
+
+- **Upsetting issues**: It is unlikely that this research will raise any personal or upsetting issues, but if it does you may wish to contact Lifeline on 13 11 14.
+
+
+## Contact us
+
+- **Researchers' contact details**: Feel free to contact me with any questions about this research by email at [aminter@myune.edu.au](mailto:aminter@myune.edu.au).
+
+- You may also contact my supervisors. My principal supervisor’s name is Dr Deborah Apthorp and she can be contacted by email at [dapthorp@une.edu.au](mailto:dapthorp@une.edu.au) by phone on +61 2 6773 4315. My co-supervisor’s name is Dr Clara Murray and her email address is [cmurra30@une.edu.au](mailto:cmurra30@une.edu.au); her phone number is +61 2 6773 1793.
+
+## Complaints 
+
+- Should you have any complaints concerning the manner in which this research is conducted, please contact:
+Research Ethics Officer 
+Research Services
+University of New England   
+Armidale, NSW  2351
+Tel: +61 2 6773 1115.
+Email: [humanethics@une.edu.au](humanethics@une.edu.au)
+
+## Proceed 
+
+- To view the consent form and proceed with the experiments and surveys, please click on the link. 
+
+[PROCEED](https://mili2nd.co/p3cc)
