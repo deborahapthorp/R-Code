@@ -1,5 +1,5 @@
 ---
-title: "Information and consent form for participants"
+title: "UNE Long COVID study - Information and consent form for participants"
 author: "School of Psychology, University of New England, Armidale NSW 2351, Australia"
 date: "Phone  02 6773 4316, dapthorp@une.edu.au - \n press space bar to scroll through"
 output: ioslides_presentation
@@ -34,6 +34,10 @@ I wish to invite you to participate in my research project, described below.
 
 My name is Adriarne Minter, and I am conducting this research as part of my Honours project in the School of Psychology at the University of New England. My supervisor is Dr Deborah Apthorp, and co-researcher is A/Prof. Clara Murray. 
 
+**On completion of this study**, you will have the option to enter a prize draw to win a $100 voucher. 
+
+You will be directed to a separate site to **optionally** give your email to be in the draw, and your email will not be associated with your data. 
+
 ## Project, aims and requirements
 
 - **Research project**: Long-COVID, Cognitive Functioning, and Quality of Life: An Online Study
@@ -43,7 +47,6 @@ My name is Adriarne Minter, and I am conducting this research as part of my Hono
 ## Online battery of tests and questionnaires
 
 - **Online experiments**: For this study, you will be asked to answer some basic demographic questions, complete three computer-based tasks and four brief questionnaries. It should take no longer than 20 minutes to complete. The questions in the questionnaire are general in nature and will help to enhance our knowledge about thinking and memory skills and quality of life after COVID-19. However, some participants may find completion of the questionnaires and tasks tiring. Please feel free to take a break as needed, both for your own comfort and for optimal completion of the tasks. 
-
 
 
 ## Confidentiality and Voluntary Participation
